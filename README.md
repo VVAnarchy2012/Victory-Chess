@@ -11,5 +11,6 @@ Current SoDA team working on the project:
 + Abir Rahman
 + Nicholas Hannah
 + Michael Sprague-Eckenrode
++ Wyatt Tyree
 
 If you're a SoDA member and you'd like to get involved, get in touch with the project manager at crecher@asu.edu.
